@@ -1,3 +1,3 @@
 a='Hello world'
 c=a+str(23)
-print(a,c)
+print(a,c,8)
